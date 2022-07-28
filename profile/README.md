@@ -3,12 +3,11 @@
 
 ## Index
 - [Lego2me](#lego2me)
-  - [1. Prerequisites](#1-prerequisites)
-  - [2. Installation Process](#2-installation-process)
+  - [1. Architecture](#1-Architecture)
+  - [2. Site URL](#2-Site URL)
   - [3. Getting Started](#3-getting-started)
-  - [4. File Manifest](#4-file-manifest)
-  - [5. Copyrights / End User Licesnse](#5-copyrights--end-user-licesnse)
-  - [6. Contact Information](#6-contact-information)
+  - [4. File Structure](#4-File Structure)
+  - [5. Contact Information](#5-Contact Information)
 
 ## 1. Architecture
 ![image](https://user-images.githubusercontent.com/67141385/181452159-55f30063-524a-43a8-b9e0-55f556147040.png)
