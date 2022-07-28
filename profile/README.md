@@ -14,7 +14,7 @@
 
 ## 2. Site URL
 - FLAGLY : http://www.learnflagly.com/course/courses/351/
-- Webservice URL : 
+- Webservice URL : http://147.47.125.118:6006
 
 ## 3. Getting Started
 - Our website is designed to be responsive, so that even if the size is reduced, the size of the web page is resized to fit the device even if it enters the site from a different size device, so it can be user-friendly.
