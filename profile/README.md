@@ -1,5 +1,5 @@
 # CarryCARI
-![Main Page (1)](https://user-images.githubusercontent.com/90602936/181512006-5c9a6387-fba1-4401-b3a2-8389c36b6e77.png))
+![Main Page (1)](https://user-images.githubusercontent.com/90602936/181512006-5c9a6387-fba1-4401-b3a2-8389c36b6e77.png)
 
 ## Index
 - [Lego2me](#lego2me)
@@ -11,16 +11,14 @@
   - [6. Contact Information](#6-contact-information)
 
 ## 1. Architecture
-### **Architecture**
 ![image](https://user-images.githubusercontent.com/67141385/181452159-55f30063-524a-43a8-b9e0-55f556147040.png)
 
-## 2. Installation Process
-- Requires a computer with an nvidia GPU.
-```
-$ git clone https://github.com/sung1san3/Lego2me
-$ docker-compose up --build
-```
+## 2. Site URL
+- FLAGLY : http://www.learnflagly.com/course/courses/351/
+- Webservice URL : 
+
 ## 3. Getting Started
+- Frist, 
 ![KakaoTalk_20220728_211800953](https://user-images.githubusercontent.com/67141385/181505051-59cb696e-9eb0-42b7-8143-a53e6c3a10ed.gif)
 ![KakaoTalk_20220728_211801783](https://user-images.githubusercontent.com/67141385/181505095-e98a2cb5-ed18-4b02-a417-a8ce7d764f1d.gif)
 ![KakaoTalk_20220728_211803888](https://user-images.githubusercontent.com/67141385/181505112-9cbbbe8d-23e6-4744-900f-5648a2de7d12.gif)
