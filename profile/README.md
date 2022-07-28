@@ -2,7 +2,7 @@
 ![Main Page (1)](https://user-images.githubusercontent.com/90602936/181512006-5c9a6387-fba1-4401-b3a2-8389c36b6e77.png)
 
 ## Index
-- [Lego2me](#lego2me)
+- [CarryCARI](#CarryCARI)
   - [1. Architecture](#1-Architecture)
   - [2. Site URL](#2-Site-URL)
   - [3. Getting Started](#3-getting-started)
