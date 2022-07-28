@@ -20,15 +20,19 @@
 ## 3. Getting Started
 - Our website is designed to be responsive, so that even if the size is reduced, the size of the web page is resized to fit the device even if it enters the site from a different size device, so it can be user-friendly.
 - If you press the create button above on our site, you will be taken to the page where you can upload your photos.
+
 ![KakaoTalk_20220728_211800953](https://user-images.githubusercontent.com/67141385/181505051-59cb696e-9eb0-42b7-8143-a53e6c3a10ed.gif)
 
 - On the page where users upload pictures, you can upload them by drag and drop, or you can select the pictures on your device.
+
 ![KakaoTalk_20220728_211801783](https://user-images.githubusercontent.com/67141385/181505095-e98a2cb5-ed18-4b02-a417-a8ce7d764f1d.gif)
 
 - If you click the second "Create" button above on the intro page, you can select the emotion that will be expressed as a caricature after going through the page where you uploaded your picture. After selecting one of the four emotions: smile, cry, surprise, and angry, press the "next" button to go to the waiting page waiting for the result.
+
 ![KakaoTalk_20220728_211803888](https://user-images.githubusercontent.com/67141385/181505112-9cbbbe8d-23e6-4744-900f-5648a2de7d12.gif)
 
 - The waiting page is that the user waits while the entered picture is being drawn as a caricature. Cute dinosaur games were added to avoid users' boredom, and if you submit an e-mail by putting a window to register an e-mail, you can also receive the results by e-mail.
+
 ![KakaoTalk_20220728_211805665](https://user-images.githubusercontent.com/67141385/181505127-c19f3c82-0d86-46eb-92ba-11f7a4052cdd.gif)
 
 
