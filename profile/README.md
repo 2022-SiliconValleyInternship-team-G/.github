@@ -4,10 +4,10 @@
 ## Index
 - [Lego2me](#lego2me)
   - [1. Architecture](#1-Architecture)
-  - [2. Site URL](#2-Site URL)
+  - [2. Site URL](#2-Site-URL)
   - [3. Getting Started](#3-getting-started)
-  - [4. File Structure](#4-File Structure)
-  - [5. Contact Information](#5-Contact Information)
+  - [4. File Structure](#4-File-Structure)
+  - [5. Contact Information](#5-Contact-Information)
 
 ## 1. Architecture
 ![image](https://user-images.githubusercontent.com/67141385/181452159-55f30063-524a-43a8-b9e0-55f556147040.png)
