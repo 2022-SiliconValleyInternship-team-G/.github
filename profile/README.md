@@ -33,8 +33,11 @@
 - The waiting page is that the user waits while the entered picture is being drawn as a caricature. Cute dinosaur games were added to avoid users' boredom, and if you submit an e-mail by putting a window to register an e-mail, you can also receive the results by e-mail.
 
 ![KakaoTalk_20220728_211805665](https://user-images.githubusercontent.com/67141385/181505127-c19f3c82-0d86-46eb-92ba-11f7a4052cdd.gif)
-![image](https://user-images.githubusercontent.com/67141385/181523087-defae6bc-bced-46a2-b53e-bc7bdc459fe2.png)
-![image](https://user-images.githubusercontent.com/67141385/181523227-f416069b-abc1-4641-bb44-beb1f7955b89.png)
+
+- On the results page, you can check the caricatures of 8 styles with the photos of the before image you submitted earlier.
+![image](https://user-images.githubusercontent.com/67141385/181523847-bcf5aeab-1458-4601-9f77-a192d3539599.png)
+![image](https://user-images.githubusercontent.com/67141385/181524078-46b42ca7-854a-42b7-b6cd-00888329204a.png)
+
 
 
 ## 4. File Structure
