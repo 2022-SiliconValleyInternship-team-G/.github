@@ -1,5 +1,5 @@
 # CarryCARI
-![Frame 1](![Main Page (1)](https://user-images.githubusercontent.com/90602936/181512006-5c9a6387-fba1-4401-b3a2-8389c36b6e77.png))
+!(![Main Page (1)](https://user-images.githubusercontent.com/90602936/181512006-5c9a6387-fba1-4401-b3a2-8389c36b6e77.png))
 ![151363026-4966f45c-4758-496f-bc26-aac1af291a63](https://user-images.githubusercontent.com/54930877/177606805-bb6f6c1d-e127-4cff-a776-492ab6085c5c.gif)
 
 ## Index
