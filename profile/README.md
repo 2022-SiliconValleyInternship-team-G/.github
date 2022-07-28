@@ -23,14 +23,6 @@ $ git clone https://github.com/sung1san3/Lego2me
 $ docker-compose up --build
 ```
 ## 3. Getting Started
-- If you are running in a local environment, type localhost in the Internet browser address.
-- Click the 'get started' button at the top and upload a picture of yourself you want to make into a LEGO character. After editing the top and bottom, save and check the result.
-![image](https://user-images.githubusercontent.com/54930877/151208137-9c34e377-4610-4d8c-b839-d198c4f57447.png)
-- Check out the results and try customizing your character!
-- Please leave a review for the results
-![image](https://user-images.githubusercontent.com/54930877/151210758-16a7822d-d600-4cdd-abd8-1bb283b2606b.png)
-![image](https://user-images.githubusercontent.com/54930877/151211337-11d81eed-b686-44a6-96b9-16c7bb6d9935.png)
-
 ![KakaoTalk_20220728_211800953](https://user-images.githubusercontent.com/67141385/181505051-59cb696e-9eb0-42b7-8143-a53e6c3a10ed.gif)
 ![KakaoTalk_20220728_211801783](https://user-images.githubusercontent.com/67141385/181505095-e98a2cb5-ed18-4b02-a417-a8ce7d764f1d.gif)
 ![KakaoTalk_20220728_211803888](https://user-images.githubusercontent.com/67141385/181505112-9cbbbe8d-23e6-4744-900f-5648a2de7d12.gif)
