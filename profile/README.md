@@ -78,7 +78,7 @@
 
 ## 5. Contact Information
 
-| Name    | 김소민                                     | 김유진                                        | 이진경                                         | 이주현                                  | 임연우                                    |
+| Name    | 김소민                                     | 김유진                                        | 임연우                                         | 이주현                                  | 이진경                                    |
 | ------- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| role    | Backend Developer                          | Backend Developer                            | AI, Backend Developer                                 | Frontend Developer | AI
-| Github  | [@thals1214](https://github.com/thals1214) | [@Yujin-nKim](https://github.com/Yujin-nKim) | [@dooli1971039](https://github.com/dooli1971039) | [@JulieOnIsland](https://github.com/JulieOnIsland) |[@Lim-YeonWoo](https://github.com/Lim-YeonWoo) |
+| role    | Backend Developer                          | Backend Developer                            | AI, Backend Developer                                 | AI | Frontend Developer
+| Github  | [@thals1214](https://github.com/thals1214) | [@Yujin-nKim](https://github.com/Yujin-nKim) | [@Lim-YeonWoo](https://github.com/Lim-YeonWoo) | [@JulieOnIsland](https://github.com/JulieOnIsland) | [@dooli1971039](https://github.com/dooli1971039) | 
