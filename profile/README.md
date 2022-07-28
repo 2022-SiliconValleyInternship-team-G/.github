@@ -14,7 +14,8 @@
 
 ## 2. Site URL
 - FLAGLY : http://www.learnflagly.com/course/courses/351/
-- Webservice URL : http://147.47.125.118:6006
+- Webservice URL(Frontend) : https://carrycari.netlify.app
+- Webservice URL(Backend) : http://147.47.125.118:6006
 
 ## 3. Getting Started
 - Our website is designed to be responsive, so that even if the size is reduced, the size of the web page is resized to fit the device even if it enters the site from a different size device, so it can be user-friendly.
@@ -35,9 +36,8 @@
 ![KakaoTalk_20220728_211805665](https://user-images.githubusercontent.com/67141385/181505127-c19f3c82-0d86-46eb-92ba-11f7a4052cdd.gif)
 
 - On the results page, you can check the caricatures of 8 styles with the photos of the before image you submitted earlier.
-- 
-![image](https://user-images.githubusercontent.com/67141385/181523847-bcf5aeab-1458-4601-9f77-a192d3539599.png)
-![image](https://user-images.githubusercontent.com/67141385/181524078-46b42ca7-854a-42b7-b6cd-00888329204a.png)
+
+![Result Page](https://user-images.githubusercontent.com/70802352/181600528-ae3826c7-9be6-49aa-9d28-8225e57deb8e.png)
 
 
 
