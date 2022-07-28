@@ -11,7 +11,6 @@
   - [6. Contact Information](#6-contact-information)
 
 ## 1. Architecture
-- https://flagly.org/
 ### **Architecture**
 ![image](https://user-images.githubusercontent.com/67141385/181452159-55f30063-524a-43a8-b9e0-55f556147040.png)
 
