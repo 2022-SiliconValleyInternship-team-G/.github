@@ -80,5 +80,5 @@
 
 | Name    | 김소민                                     | 김유진                                        | 임연우                                         | 이주현                                  | 이진경                                    |
 | ------- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| role    | Backend Developer                          | Backend Developer                            | AI, Backend Developer                                 | AI | Frontend Developer
+| role    | Backend Developer                          | Backend Developer                            | AI, Backend Developer                                 | AI | Team Leader, Frontend Developer
 | Github  | [@thals1214](https://github.com/thals1214) | [@Yujin-nKim](https://github.com/Yujin-nKim) | [@Lim-YeonWoo](https://github.com/Lim-YeonWoo) | [@JulieOnIsland](https://github.com/JulieOnIsland) | [@dooli1971039](https://github.com/dooli1971039) | 
